@@ -1,4 +1,5 @@
 # My Application
+A Sample Shopping cart page built with React, GraphQl, Typescript and Node
 
 ## Install dependancies
 ```
