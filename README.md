@@ -13,4 +13,4 @@ npm start
 
 ## Live application
 
-[https://samplecartapp.herokuapp.com/](https://samplecartapp.herokuapp.com/)
+[https://sapmle-shopping-cart.herokuapp.com/](https://sapmle-shopping-cart.herokuapp.com/)
