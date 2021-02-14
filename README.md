@@ -13,4 +13,4 @@ npm start
 
 ## Live application
 
-['https://sample-shoppingcart-app.herokuapp.com/api/]('https://sample-shoppingcart-app.herokuapp.com/api/)
+['https://radiant-cove-39202.herokuapp.com/api/]('https://radiant-cove-39202.herokuapp.com/api/)
